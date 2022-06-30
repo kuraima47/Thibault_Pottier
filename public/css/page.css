@@ -1,0 +1,75 @@
+.buttonList a{
+    margin-right : auto;
+    margin-left : auto; 
+    cursor: pointer;
+}
+
+.listOfEdit, .listOfEdit button{
+    width: 250px;
+    margin-top: 5%; 
+}
+
+.imgEdit{
+    width: 20%;
+    height: 20%;
+}
+
+.action{
+    text-align: center;
+    align-items: center; 
+}
+.h4Add {
+    margin: 3% 0 3% 0; 
+}
+.form {
+    width: 40%;
+    margin: 0 auto 0 auto;
+    text-align: left;
+}
+.form input, .form textarea {
+    width: 90%; 
+    margin: 2% auto 2% auto;
+}
+.form label {
+    font-weight: bold;
+}
+
+.imgVue{
+    position: relative;
+    height: 100px; 
+    width: 100px;
+    border: #fff solid;
+    box-shadow:  0 0 2em rgb(64, 54, 54);
+    margin-left: 0%; 
+    object-fit: cover;
+}
+
+.edit button{
+    border-radius: 50px; 
+}
+.edit {
+    display: grid; 
+    grid-auto-rows: 1fr; 
+    grid-template-columns: 0.5fr 3fr; 
+    grid-template-rows: 1fr; 
+    gap: 0px 0px; 
+    grid-template-areas: 
+    ". ."; 
+}
+.informationEdit {
+    width: 40%;
+    margin: 0 auto 0 auto;
+    text-align: left;
+}
+.informationEdit input, .informationEdit textarea {
+    width: 100%;
+    margin: 1% 0 0 0;
+}
+
+.informationEdit img, .informationEdit label {
+    margin: 2% 0 0.5% 0;
+}
+
+.informationEdit label {
+    font-weight: bold;
+}
