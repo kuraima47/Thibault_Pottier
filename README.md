@@ -13,7 +13,7 @@
 - ouvrez votre navigateur internet
 - ouvrez la page "http://127.0.0.1:8000/"
 
-//fonctionnement
+//fonctionnement 
 
 il y a 2 pages, la page d'affichage, adapter sur mobile et pc.
 afin d'avoir accès à la gestion des fiches, 
