@@ -1,5 +1,5 @@
 # Laravel_Thibault_Pottier
-// étapes d'installations
+## étapes d'installations
 
 - ouvrir le CMD
 - aller dans le répertoire d'acceuil du projet 
@@ -13,7 +13,7 @@
 - ouvrez votre navigateur internet
 - ouvrez la page "http://127.0.0.1:8000/"
 
-//fonctionnement 
+## fonctionnement 
 
 Il y a 2 pages, la page d'affichage, adapter sur mobile et pc, afin d'avoir accès à la gestion des fiches.
 Il suffi de se connecter ou de s'enregistrer, pour modifier, ajouter et supprimer des fiches. 
