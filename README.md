@@ -15,9 +15,8 @@
 
 //fonctionnement 
 
-il y a 2 pages, la page d'affichage, adapter sur mobile et pc.
-afin d'avoir accès à la gestion des fiches, 
-il suffi de se connecter ou de s'enregistrer, pour modifier, ajouter et en supprimer. 
-des identifiants test ont etais fais: email => test@gmail.com, password => Test1234 ou alors inscrire un nouvel utilisateur
+Il y a 2 pages, la page d'affichage, adapter sur mobile et pc, afin d'avoir accès à la gestion des fiches.
+Il suffi de se connecter ou de s'enregistrer, pour modifier, ajouter et supprimer des fiches. 
+Des identifiants test ont etais creer: email => test@gmail.com, password => Test1234 ou alors inscrir un nouvel utilisateur
 
 
